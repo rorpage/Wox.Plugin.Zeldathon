@@ -1,0 +1,12 @@
+{
+  "ID": "598967426d3a403e9b12eeac793d737c",
+  "ActionKeyword": "zt",
+  "Name": "Zeldathon",
+  "Description": "See current information about Zeldathon",
+  "Author": "Robbie Page",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/rorpage/Wox.Plugin.Zeldathon",
+  "IcoPath": "Images\\zeldathon.png",
+  "ExecuteFileName": "Wox.Plugin.Zeldathon.dll"
+}
